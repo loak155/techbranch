@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/loak155/techbranch-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/loak155/techbranch-backend.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/loak155/techbranch-infra.git
